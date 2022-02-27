@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SQL, Python, and Tableau
 - 📫 How to reach me almar.atussalihan@gmail.com
 - https://www.linkedin.com/in/almaratussaliha/
+- https://medium.com/@almar.atussaliha
 - https://public.tableau.com/app/profile/almar.atss
 
 <!---
