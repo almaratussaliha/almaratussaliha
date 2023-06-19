@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @almaratussaliha
-- 👀 I’m interested in Data Analysis, and Business Intelligence
+- 👀 I’m interested in Data Analysis, Business Intelligence and Data Science
 - 🌱 I’m currently learning SQL, Python, and Tableau
 - 📫 How to reach me almar.atussalihan@gmail.com
 - https://www.linkedin.com/in/almaratussaliha/
